@@ -38,7 +38,7 @@ Para cada experimento, um Sistema de Inferência Fuzzy (FIS) foi projetado utili
 #### b. Instalação
 Clone este repositório e instale as dependências necessárias:
 ```bash
-git clone [(https://github.com/ciaograsso06/fuzzy-classifier-gtzan.git)](https://github.com/ciaograsso06/fuzzy-classifier-gtzan.git)
+git clone https://github.com/ciaograsso06/fuzzy-classifier-gtzan.git
 cd fuzzy-classifier-gtzan
 pip install pandas numpy scikit-learn librosa simpful matplotlib seaborn
 ```
